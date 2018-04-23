@@ -1,23 +1,11 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+# WeatherForecast
+This is a React-Redux application to display the weather forecast.
+Redux Promises is used as a middleware while acessing data from an external API.
+The user can search the name of the city using the search bar in the application.
+Google maps is integrated which displays the location of the searched city.
 
 ### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Checkout this repo, install dependencies, clone the repository then start the gulp process with the following:
 
 ```
 > npm install
